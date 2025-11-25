@@ -1,3 +1,4 @@
+#darakulkina138-netizen
 def analyze_string():
     text = input("Введите строку на русском языке: ")
     length = len(text)
