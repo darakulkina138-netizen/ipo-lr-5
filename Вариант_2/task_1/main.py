@@ -1,3 +1,4 @@
+#darakulkina138-netizen
 text = input("Введите 10 слов: ")
 words = text.split()
 if len(words) < 10:
